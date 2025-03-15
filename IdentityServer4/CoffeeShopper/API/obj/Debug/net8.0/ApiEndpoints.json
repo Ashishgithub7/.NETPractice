@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "API.Controllers.CoffeeShopController",
+    "Method": "List",
+    "RelativePath": "api/CoffeeShop",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

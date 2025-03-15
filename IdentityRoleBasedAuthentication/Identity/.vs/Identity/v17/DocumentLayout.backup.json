@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityrolebasedauthentication\\identity\\identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8965CE8-BF4E-4C10-92B4-365DBB70D4AF}|Identity\\Identity.csproj|solutionrelative:identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:01:48.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:01:42.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:21:26.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Controllers\\Test.cs",
+              "RelativeDocumentMoniker": "Identity\\Controllers\\Test.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Controllers\\Test.cs",
+              "RelativeToolTip": "Identity\\Controllers\\Test.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:55:22.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Program.cs",
+              "RelativeDocumentMoniker": "Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Program.cs",
+              "RelativeToolTip": "Identity\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:46:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Identity\\Data\\ApplicationDbContext.cs",
@@ -42,25 +118,11 @@
               "RelativeToolTip": "Identity\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T06:05:54.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T06:05:54.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Controllers\\Test.cs",
-              "RelativeDocumentMoniker": "Identity\\Controllers\\Test.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Controllers\\Test.cs",
-              "RelativeToolTip": "Identity\\Controllers\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T05:55:22.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Data\\Product.cs",
               "RelativeDocumentMoniker": "Identity\\Data\\Product.cs",
@@ -68,34 +130,19 @@
               "RelativeToolTip": "Identity\\Data\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T06:04:27.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T06:04:27.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DbSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Data\\DbSeeder.cs",
               "RelativeDocumentMoniker": "Identity\\Data\\DbSeeder.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Data\\DbSeeder.cs",
               "RelativeToolTip": "Identity\\Data\\DbSeeder.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T05:56:51.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Program.cs",
-              "RelativeDocumentMoniker": "Identity\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityRoleBasedAuthentication\\Identity\\Identity\\Program.cs",
-              "RelativeToolTip": "Identity\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T05:46:58.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T05:56:51.81Z"
             }
           ]
         }

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\api\\services\\coffeeshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|solutionrelative:api\\services\\coffeeshopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\dataaccess\\migrations\\20250315181432_adding coffee shops to test for get method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250315181432_adding coffee shops to test for get method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\dataaccess\\migrations\\20250315173821_initial appdbcontext with coffeeshop entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250315173821_initial appdbcontext with coffeeshop entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\api\\controllers\\coffeeshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|solutionrelative:api\\controllers\\coffeeshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\api\\models\\coffeeshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FA446E-8D74-4F81-A1F6-E5F7E219F9D6}|API\\API.csproj|solutionrelative:api\\models\\coffeeshopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\identityserver4\\coffeeshopper\\dataaccess\\entities\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120A1C3A-3E63-4A01-9936-0B0E773B7E55}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:48:25.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250315173821_Initial AppDbContext with coffeeShop entity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Migrations\\20250315173821_Initial AppDbContext with coffeeShop entity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250315173821_Initial AppDbContext with coffeeShop entity.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Migrations\\20250315173821_Initial AppDbContext with coffeeShop entity.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250315173821_Initial AppDbContext with coffeeShop entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:38:21.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:03:39.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeShopService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Services\\CoffeeShopService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\CoffeeShopService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Services\\CoffeeShopService.cs*",
+              "RelativeToolTip": "API\\Services\\CoffeeShopService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:00:54.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250315181432_adding coffee shops to test for get method.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Migrations\\20250315181432_adding coffee shops to test for get method.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250315181432_adding coffee shops to test for get method.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Migrations\\20250315181432_adding coffee shops to test for get method.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250315181432_adding coffee shops to test for get method.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:14:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeShopModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Models\\CoffeeShopModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\CoffeeShopModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Models\\CoffeeShopModel.cs",
+              "RelativeToolTip": "API\\Models\\CoffeeShopModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:57:51.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:02:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoffeeShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Controllers\\CoffeeShopController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CoffeeShopController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\API\\Controllers\\CoffeeShopController.cs",
+              "RelativeToolTip": "API\\Controllers\\CoffeeShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:08:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoffeeShop.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Entities\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\CoffeeShop.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\DataAccess\\Entities\\CoffeeShop.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\CoffeeShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:32:53.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
