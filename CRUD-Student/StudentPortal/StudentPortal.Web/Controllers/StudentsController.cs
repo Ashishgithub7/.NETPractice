@@ -31,7 +31,7 @@ namespace StudentPortal.Web.Controllers
             await dbContext.Students.AddAsync(student);
             await dbContext.SaveChangesAsync();
 
-            return View();
+            return RedirectToAction("List", "Students");
         }
 
         [HttpGet]
@@ -71,7 +71,7 @@ namespace StudentPortal.Web.Controllers
         {
             var student = await dbContext.Students
                 .AsNoTracking() /* For not tracking the student entity */
-                .FirstOrDefaultAsync(x=>x.Id==viewModel.Id); /*  */
+                .FirstOrDefaultAsync(x=>x.Id==viewModel.Id); /* looks directly into db instead of  dbContext at first like SaveChangesAsync()  */
 
             if(student is not null)
             {

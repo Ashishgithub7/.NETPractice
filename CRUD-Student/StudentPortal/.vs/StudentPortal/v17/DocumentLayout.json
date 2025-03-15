@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\dell\\onedrive\\desktop\\.net\\crud-student\\studentportal\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A46A082A-FCC6-48BA-8BB4-2A65F2DE410E}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:18:52.238Z",
+              "WhenOpened": "2025-03-06T04:52:39.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T04:52:14.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
-              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:04:03.629Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:52:08.579Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:48:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:10:13.585Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
-              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:03:55.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\CRUD-Student\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAqwEkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:01:50.567Z",
+              "WhenOpened": "2025-03-05T06:19:20.47Z",
               "EditorCaption": ""
             }
           ]
