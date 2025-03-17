@@ -1,0 +1,3 @@
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\API\obj\Debug\net8.0\staticwebassets.build.json
