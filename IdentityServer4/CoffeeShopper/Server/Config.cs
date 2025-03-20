@@ -57,9 +57,10 @@ namespace Server
                 ClientId = "interactive",
                 ClientSecrets = { new Secret("ClientSecret1".Sha256()) },
                 AllowedGrantTypes = GrantTypes.Code,
-                RedirectUris = new List<string> { "https://localhost:5444/signin-oidc" },
-                FrontChannelLogoutUri = "https://localhost:5444/signout-oidc",
-                PostLogoutRedirectUris = { "https://localhost:5444/signout-callback-oidc" },
+                RedirectUris = new List<string> { "https://localhost:5444/authentication/login-callback" },
+                FrontChannelLogoutUri = "https://localhost:5444/authentication/logout",
+                PostLogoutRedirectUris = { "https://localhost:5444/authentication/logout-callback" },
+
                 AllowOfflineAccess = true,
                 AllowedScopes = { "openid", "profile", "CoffeeAPI.read" },
                 RequirePkce = true,

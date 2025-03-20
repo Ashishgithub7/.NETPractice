@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "djDKiKLm1JK9bfc9BWWUnt3TbHIYcRTt+l3INwr3kTI=",
+  "Hash": "QOnZoBfLNQrp3qmNO+XGxtKf4lZ7JPJxCMVWQqA8Ufk=",
   "Source": "Client",
   "BasePath": "_content/Client",
   "Mode": "Default",
@@ -43,8 +43,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "natb0eq8ve",
-      "Integrity": "8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs=",
+      "Fingerprint": "7xphc2fl3c",
+      "Integrity": "e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css"
@@ -64,8 +64,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "natb0eq8ve",
-      "Integrity": "8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs=",
+      "Fingerprint": "7xphc2fl3c",
+      "Integrity": "e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.bundle.scp.css"
@@ -403,6 +403,96 @@
       ]
     },
     {
+      "Route": "Client.7xphc2fl3c.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 03:33:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7xphc2fl3c"
+        },
+        {
+          "Name": "label",
+          "Value": "Client.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts="
+        }
+      ]
+    },
+    {
+      "Route": "Client.7xphc2fl3c.styles.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 03:33:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7xphc2fl3c"
+        },
+        {
+          "Name": "label",
+          "Value": "Client.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts="
+        }
+      ]
+    },
+    {
       "Route": "Client.bundle.scp.css",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
       "Selectors": [],
@@ -413,7 +503,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5963"
+          "Value": "6037"
         },
         {
           "Name": "Content-Type",
@@ -421,11 +511,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs=\""
+          "Value": "\"e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:21:52 GMT"
+          "Value": "Wed, 19 Mar 2025 03:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -435,97 +525,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs="
-        }
-      ]
-    },
-    {
-      "Route": "Client.natb0eq8ve.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5963"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:21:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "natb0eq8ve"
-        },
-        {
-          "Name": "label",
-          "Value": "Client.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs="
-        }
-      ]
-    },
-    {
-      "Route": "Client.natb0eq8ve.styles.css",
-      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Desktop\\.NET\\IdentityServer4\\CoffeeShopper\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5963"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:21:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "natb0eq8ve"
-        },
-        {
-          "Name": "label",
-          "Value": "Client.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs="
+          "Value": "sha256-e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts="
         }
       ]
     },
@@ -540,7 +540,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5963"
+          "Value": "6037"
         },
         {
           "Name": "Content-Type",
@@ -548,11 +548,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs=\""
+          "Value": "\"e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:21:52 GMT"
+          "Value": "Wed, 19 Mar 2025 03:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -562,7 +562,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8f7BiHZQojeAFNskp3cbS0jtAJUX8ECWBYFUJF1Q4xs="
+          "Value": "sha256-e6E1td8g/skYuFRGVVZtpFFjG7M30OOzSszaLyRyPts="
         }
       ]
     },

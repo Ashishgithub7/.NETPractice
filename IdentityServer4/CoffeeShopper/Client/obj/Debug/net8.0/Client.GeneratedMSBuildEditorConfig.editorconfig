@@ -48,6 +48,18 @@ build_metadata.AdditionalFiles.CssScope = b-4kdmjuawjh
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-b3bxtejbwi
 
+[C:/Users/Dell/OneDrive/Desktop/.NET/IdentityServer4/CoffeeShopper/Client/Components/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVkaXJlY3RUb0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-73rwm6ehae
+
 [C:/Users/Dell/OneDrive/Desktop/.NET/IdentityServer4/CoffeeShopper/Client/Components/Pages/CoffeeShop.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb2ZmZWVTaG9wLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-xx1bnb7vt6
+
+[C:/Users/Dell/OneDrive/Desktop/.NET/IdentityServer4/CoffeeShopper/Client/Components/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/OneDrive/Desktop/.NET/IdentityServer4/CoffeeShopper/Client/Components/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

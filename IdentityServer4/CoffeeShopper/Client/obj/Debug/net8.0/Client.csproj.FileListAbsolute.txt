@@ -99,3 +99,8 @@ C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\obj\Deb
 C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\obj\Debug\net8.0\scopedcss\Components\Pages\CoffeeShop.razor.rz.scp.css
 C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\obj\Debug\net8.0\Client.csproj.Up2Date
 C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\bin\Debug\net8.0\Duende.IdentityModel.dll
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\obj\Debug\net8.0\Client.RazorAssemblyInfo.cache
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\obj\Debug\net8.0\Client.RazorAssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Dell\OneDrive\Desktop\.NET\IdentityServer4\CoffeeShopper\Client\obj\Debug\net8.0\scopedcss\Components\Layout\RedirectToLogin.razor.rz.scp.css
